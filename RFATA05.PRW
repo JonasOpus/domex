@@ -16,6 +16,7 @@
 ßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßßß
 
 Parametros:
+//
 
 "A" - Somente Exibe Mensagem ao preencher o Campo Cliente
 "B" - Valida Condicao de Pagamento pelo Campo E4_XRISCOE  como Logico
