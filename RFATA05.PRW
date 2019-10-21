@@ -26,6 +26,8 @@ Parametros:
 
 //KSDKAJKDKASJDKKDKJKDJ
 //HUAHAHAUHAUHA
+// mauresi
+
 User Function RFATA05()
 
 Local _Retorno := .T.
