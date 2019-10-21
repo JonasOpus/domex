@@ -24,7 +24,7 @@ Parametros:
 
 */
 
-
+//KSDKAJKDKASJDKKDKJKDJ
 User Function RFATA05()
 
 Local _Retorno := .T.
